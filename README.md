@@ -16,4 +16,4 @@ Dataset : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
 ### Contributers:
  - [Gaurav Tripathi](https://github.com/gaurav0506199)
- - [Veeru Muthu]
+
